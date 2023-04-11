@@ -1,4 +1,4 @@
-Simple Interest Calculator
+**Simple Interest Calculator**
 
 This is a command-line tool for calculating simple interest based on the principal amount, annual rate of interest, and time period in years.
 
